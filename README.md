@@ -8,7 +8,7 @@ This repository contains a collection of assignments and projects completed for 
 
 ## 📂 Project List
 
-### 1. [Linear Regression: Predicting Seoul Apartment Prices](./assignment1-linear-regression/)
+### 1. [Linear Regression: Predicting Seoul Apartment Prices](./assignment1-linear-regression/) 
 - **Description**: A project to implement a simple linear regression model using PyTorch. The model was trained on a synthetic dataset generated based on real-world market statistics to analyze the relationship between apartment size and price.
 - **Key Concepts**:
   - Model implementation with `nn.Linear`
